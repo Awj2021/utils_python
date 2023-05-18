@@ -12,3 +12,6 @@ Reference:
 Mainly recording some basic functions especially those frequently appeared in the project. In fact, 
 all of the functions have detailed explaination in the official website of Pytorch. However, I think 
 that you will have better understanding and using when you record these matually by yourself. 
+
+## shell_scripts
+Add some commands & useful shell scripts, which mainly used for finishing many tasks quickly and easily.
